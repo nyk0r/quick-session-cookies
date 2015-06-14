@@ -1,0 +1,11 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Sliding Cookie</title>
+    <script type="text/javascript" src="Content/main.js"></script>
+</head>
+<body>
+    <iframe style="width:0; height:0; display:none;" src="/iframe"></iframe>
+</body>
+</html>
